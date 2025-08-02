@@ -4,6 +4,8 @@
 
 ## Project Demo
 
+**Click the image below to watch the demo video.**
+
 [![Watch the demo](images/project_demo_thumbnail.jpg)](https://www.youtube.com/watch?v=IX_58bvUJ00)
 
 This repository contains the complete backend pipeline, including data preprocessing, customer segmentation, conversion prediction, and personalized price optimization. Frontend visualizations were created separately by a teammate and are included for demonstration.
