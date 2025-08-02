@@ -3,8 +3,7 @@
 **PricePulse** is a modular machine learning system that dynamically adjusts product prices in real time based on customer segments, context, and likelihood to purchase. Developed as part of the **Walmart A+ Sparkathon 2025**, this project demonstrates how targeted, data-driven incentives can drive both revenue and satisfaction.
 
 ## Project Demo
-
-**Click the image below to watch the demo video.**
+**Click the thumbnail below to watch the demo on YouTube.**
 
 [![Watch the demo](images/project_demo_thumbnail.jpg)](https://www.youtube.com/watch?v=IX_58bvUJ00)
 
