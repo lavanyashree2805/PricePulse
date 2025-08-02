@@ -76,27 +76,7 @@ Datasets were built using synthetic and open-source references from platforms li
 ---
 
 ## Directory Structure
-
-├── data/
-│   ├── raw/                          # Original input datasets
-│   └── processed/
-│       └── final_model_ready.csv     # Cleaned + feature-engineered dataset
-│
-├── models/                           # Saved ML models and preprocessing assets
-│   ├── gb_model.pkl                  # Gradient Boosting model for pricing
-│   ├── kmeans_model.pkl              # Clustering model for segmentation
-│   ├── segment_mapping.pkl           # Mapping for cluster label → segment name
-│   ├── label_encoders.pkl            # LabelEncoders used in training pipeline
-│   └── scaler_segmentation_features.pkl  # Scaler for normalization
-│
-├── notebooks/                        # Jupyter notebooks for model development
-│   ├── SegmentationModel.ipynb       # Customer segmentation using KMeans
-│   ├── DynamicPricingFinal.ipynb     # Price prediction model
-│   └── ConversionFinalOne.ipynb      # Conversion likelihood classifier
-│
-├── requirements.txt                  # Project dependencies
-├── LICENSE                           # Open-source license (MIT)
-└── README.md                         # Project documentation
+<pre> . ├── data/ │ ├── raw/ │ └── processed/ │ └── final_model_ready.csv │ ├── models/ │ ├── gb_model.pkl │ ├── kmeans_model.pkl │ ├── segment_mapping.pkl │ ├── label_encoders.pkl │ └── scaler_segmentation_features.pkl │ ├── notebooks/ │ ├── SegmentationModel.ipynb │ ├── DynamicPricingFinal.ipynb │ └── ConversionFinalOne.ipynb │ ├── requirements.txt ├── LICENSE └── README.md </pre>
 
 
 ---
